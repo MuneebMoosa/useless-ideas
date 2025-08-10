@@ -2,7 +2,7 @@
 
 # [WHAT AT THE END] 🎯
 
-A web application that lets users search for movies and find out if they have a happy, sad, or twist/cliffhanger ending.
+A web application that lets users search for movies and find out how ending looks like.
 
 ## 🚀 Quick Start
 
