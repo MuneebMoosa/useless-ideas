@@ -6,76 +6,17 @@ A web application that lets users search for movies and find out how ending look
 
 ## 🚀 Quick Start
 
-### Prerequisites
+## Screenshots (Add at least 3)
 
-- Node.js (v16 or higher)
-- MongoDB Atlas account
-- TMDB API key
-- OpenAI API key
+!\[Screenshot1]\(Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-### Installation
+!\[Screenshot2]\(Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-1. **Clone the repository**
+!\[Screenshot3]\(Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-   ```bash
-   git clone https://github.com/muneebmoosa/useless-ideas.git
-   cd useless-ideas
-   ```
-
-2. **Backend Setup**
-
-   ```bash
-   cd backend
-   npm install
-   cp .env.example .env
-   # Edit .env with your API keys and MongoDB connection string
-   npm start
-   ```
-
-3. **Frontend Setup**
-   ```bash
-   cd frontend
-   npm install
-   npm run build
-   npm start
-   ```
-
-## 📁 Project Structure
-
-```
-useless-ideas/
-├── backend/          # Node.js API server
-├── frontend/         # React application
-├── scripts/          # Development and deployment scripts
-├── docs/            # Project documentation
-├── .gitignore       # Git ignore rules
-└── README.md        # This file
-```
-
-## 🔧 Environment Variables
-
-Create a `.env` file in the backend directory:
-
-```env
-MONGODB_URI=your_mongodb_atlas_connection_string
-TMDB_API_KEY=your_tmdb_api_key
-OPENAI_API_KEY=your_openai_api_key
-PORT=5000
-NODE_ENV=production
-```
-
-## 🚀 Deployment
-
-### Backend (Vercel)
-
-- The backend is configured for Vercel deployment
-- Update environment variables in Vercel dashboard
-- Deploy using `vercel --prod`
-
-### Frontend (Vercel/Netlify)
-
-- Build the project: `npm run build`
-- Deploy the `build` folder to your hosting platform
 
 ## 📚 Documentation
 
@@ -84,8 +25,6 @@ NODE_ENV=production
 - [Deployment Guide](docs/DEPLOYMENT.md) - Platform-specific deployment
 
 ## 🛠️ Available Scripts
-
-Check the `scripts/` folder for development and deployment scripts.
 
 ## 👥 Team
 
